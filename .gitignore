@@ -1,0 +1,32 @@
+/[Vv][Rr] [Rr]oom-[Yy]ukai/[Ll]ibrary/
+/[Vv][Rr] [Rr]oom-[Yy]ukai/[Tt]emp/
+/[Vv][Rr] [Rr]oom-[Yy]ukai/[Oo]bj/
+/[Vv][Rr] [Rr]oom-[Yy]ukai/[Bb]uild/
+/[Vv][Rr] [Rr]oom-[Yy]ukai/[Bb]uilds/
+/[Vv][Rr] [Rr]oom-[Yy]ukai/[Ll]ogs/
+/[Vv][Rr] [Rr]oom-[Yy]ukai/[Vv]s/
+/[Vv][Rr] [Rr]oom-[Yy]ukai/.utmp/
+/[Vv][Rr] [Rr]oom-[Yy]ukai/.vs/
+
+# 排除自动生成的工程文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# 排除 Unity 用户的个人设置
+/[Vv][Rr] [Rr]oom-[Yy]ukai/[Vv]isual[厂]tudioWithoutUnity.sln
+/[Vv][Rr] [Rr]oom-[Yy]ukai/UserSettings/
+
+# OS 产生的临时文件
+.DS_Store
+Thumbs.db
